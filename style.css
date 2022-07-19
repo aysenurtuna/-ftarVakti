@@ -1,0 +1,34 @@
+*{
+    text-align: center;
+    text-transform: uppercase;
+}
+.bg{
+    background-color: #5172b8;
+    color: #fff;
+}
+#current-time{
+    font-size: 80px;
+}
+.location p:nth-child(2){
+    font-size: 40px;
+    margin-top: -20px;
+}
+.location p:nth-child(3){
+    margin-top: -20px;
+}
+.time-left-text{
+    font-size: 35px;
+}
+#time-left{
+    font-size: 30px;
+    margin-top: -20px;
+}
+label, .modal-title{
+    float: left;
+    color: #000;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+option{
+    color: #000;
+}
